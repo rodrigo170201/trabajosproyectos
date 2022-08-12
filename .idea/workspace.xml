@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2394b5aa-89bf-4866-8f22-1957371f6057" name="Changes" comment="iniciando">
+    <list default="true" id="2394b5aa-89bf-4866-8f22-1957371f6057" name="Changes" comment="iniciando 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nuevo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuevo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Proyecto1/consola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Proyecto1/consola.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,13 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.consola">
+    <configuration name="consola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proyecto1.consola" />
+      <module name="eddnur202202r" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Proyecto1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="nuevo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nuevo" />
       <module name="eddnur202202r" />
@@ -49,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.consola" />
         <item itemvalue="Application.nuevo" />
       </list>
     </recent_temporary>
@@ -69,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660095311268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="iniciando">
+      <created>1660096287812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660096287812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="iniciando 1">
+      <created>1660096407112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660096407112</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iniciando" />
-    <option name="LAST_COMMIT_MESSAGE" value="iniciando" />
+    <MESSAGE value="iniciando 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="iniciando 1" />
   </component>
 </project>
