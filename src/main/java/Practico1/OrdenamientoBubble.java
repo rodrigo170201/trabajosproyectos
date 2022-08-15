@@ -4,8 +4,8 @@ public class OrdenamientoBubble {
     public OrdenamientoBubble(){
 
     }
-    public static void ordenandoBubble(long[] b){
-        long aux;
+    public static void ordenandoBubble(int[] b){
+        int aux;
         boolean cambia = false;
         while (true){
             cambia=false;

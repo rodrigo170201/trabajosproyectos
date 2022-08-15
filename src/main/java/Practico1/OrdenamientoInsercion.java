@@ -6,8 +6,8 @@ public class OrdenamientoInsercion {
     public OrdenamientoInsercion(){
 
     }
-    public static void ordenandoInsercion(long[] ins){
-        long aux;
+    public static void ordenandoInsercion(int[] ins){
+        int aux;
         int cont1;
         int cont2;
         for (cont1=1;cont1<ins.length;cont1++){
